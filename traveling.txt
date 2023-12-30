@@ -2,6 +2,9 @@ rencana traveling:
 - naik gunung
 *gunung gede
 *gunung papandayan
+*gunung prau
+*gunung rinjani
 - banda naira
 - labuan bajo
 - raja ampat
+- bandung
