@@ -1,4 +1,6 @@
 rencana traveling:
 - naik gunung
+*gunung gede
+*gunung papandayan
 - banda naira
 - labuan bajo
