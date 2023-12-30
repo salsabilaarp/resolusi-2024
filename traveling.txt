@@ -1,7 +1,7 @@
 rencana traveling:
 - naik gunung
 *gunung gede
-*gunung papandayan
-- banda naira
+*gunung prau
 - labuan bajo
 - raja ampat
+-jogjakarta
